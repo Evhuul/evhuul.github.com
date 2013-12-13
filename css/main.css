@@ -1,0 +1,31 @@
+.group
+{
+    height: 500px;
+    width: 500px;
+    border-style: solid;
+    border-color: 4px black;
+}
+#one
+{
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 50px;
+    width: 50px;   
+    background-color: green;
+}
+#two
+{
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+#three
+{
+    margin-top: 20px;
+    margin-left: 75px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
